@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Megaphone Body -->
+  <path d="M8 28V36H18L34 48V16L18 28H8Z" stroke="#FACC15" stroke-width="3" stroke-linejoin="round"></path>
+
+  <!-- Sound Waves -->
+  <path d="M40 24C42.6667 26.6667 42.6667 37.3333 40 40" stroke="#FACC15" stroke-width="3" stroke-linecap="round"></path>
+  <path d="M44 20C48 24 48 40 44 44" stroke="#FACC15" stroke-width="3" stroke-linecap="round"></path>
+
+  <!-- Handle -->
+  <rect x="6" y="38" width="4" height="10" stroke="#FACC15" stroke-width="3"></rect>
+
+  <!-- Upward Arrow (campaign growth) -->
+  <path d="M24 52L32 44L38 50L46 42" stroke="#FACC15" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

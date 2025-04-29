@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Price Tag -->
+  <path d="M10 24L30 4L52 26L32 46L10 24Z" stroke="#C084FC" stroke-width="3" stroke-linejoin="round"></path>
+  <circle cx="26" cy="18" r="2.5" fill="#C084FC"></circle>
+
+  <!-- Dollar Symbol -->
+  <circle cx="48" cy="48" r="10" stroke="#C084FC" stroke-width="3"></circle>
+  <path d="M48 42V54" stroke="#C084FC" stroke-width="3"></path>
+  <path d="M44.5 45.5H51.5" stroke="#C084FC" stroke-width="3"></path>
+
+  <!-- Up Arrow (growth) -->
+  <path d="M14 50L24 40L30 46L38 38" stroke="#C084FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person/Advisor -->
+  <circle cx="20" cy="20" r="6" stroke="#34D399" stroke-width="3"></circle>
+  <path d="M14 34C14 28 26 28 26 34V38H14V34Z" stroke="#34D399" stroke-width="3"></path>
+
+  <!-- Pie Chart -->
+  <circle cx="44" cy="22" r="10" stroke="#34D399" stroke-width="3"></circle>
+  <path d="M44 22L54 22" stroke="#34D399" stroke-width="3"></path>
+  <path d="M44 22L44 12" stroke="#34D399" stroke-width="3"></path>
+
+  <!-- Line Chart -->
+  <path d="M12 48L20 40L30 46L40 36L52 44" stroke="#34D399" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

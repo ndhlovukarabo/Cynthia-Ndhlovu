@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Briefcase -->
+  <rect x="8" y="36" width="20" height="14" rx="2" stroke="#C084FC" stroke-width="3"></rect>
+  <path d="M14 36V32C14 30.9 14.9 30 16 30H20C21.1 30 22 30.9 22 32V36" stroke="#C084FC" stroke-width="3"></path>
+
+  <!-- Dollar Sign -->
+  <path d="M48 24C48 20.6863 45.3137 18 42 18C38.6863 18 36 20.6863 36 24C36 27.3137 38.6863 30 42 30C45.3137 30 48 27.3137 48 24Z" stroke="#C084FC" stroke-width="3"></path>
+  <path d="M42 20V28" stroke="#C084FC" stroke-width="3"></path>
+  <path d="M39.5 22.5H44.5" stroke="#C084FC" stroke-width="3"></path>
+
+  <!-- Graph Bars -->
+  <rect x="32" y="40" width="4" height="10" stroke="#C084FC" stroke-width="2"></rect>
+  <rect x="38" y="36" width="4" height="14" stroke="#C084FC" stroke-width="2"></rect>
+  <rect x="44" y="32" width="4" height="18" stroke="#C084FC" stroke-width="2"></rect>
+
+  <!-- Arrow Up -->
+  <path d="M10 20L18 12L26 20" stroke="#C084FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
