@@ -156,6 +156,10 @@ body {
 .row .content span {
   font-size: 12px;
 }
+.download-link {
+    display: inline-block;
+    text-decoration: none;
+}
 
 .download-btn {
   background: linear-gradient(45deg, #f64c57, #e21b5a);
